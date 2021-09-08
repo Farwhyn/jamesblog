@@ -41,7 +41,7 @@ group :development, :test do
 end
 
 # 
-gem 'better_errors', '~> 2.5'
+gem 'better_errors', '~> 2.8'
 
 gem 'bulma-rails', '~> 0.7.5'
 
